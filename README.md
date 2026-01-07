@@ -1,2 +1,2 @@
 # parentsgatewayapp
-Parents gatway app 
+Parents gatway app for school
